@@ -33,8 +33,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
-  ![BootStrap](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
   <!-- ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery) -->
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
