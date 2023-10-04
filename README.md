@@ -7,10 +7,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Leveraging my diverse background to forge a path towards a healthier and more accessible future for all.
+- 🧑🏻‍⚕️💻 &nbsp; Leveraging my diverse background to forge a path towards a healthier and more accessible future for all.
 - 🎓 &nbsp; Studied software engineering immersive at General Assembly.
-- 💼 &nbsp; Currently learning Python Django.
-- 👨🏻‍💻 &nbsp; Open to work! 
+- 📚 &nbsp; Currently learning Python Django.
+- 💼 &nbsp; Open to work! 
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hu-codes&label=Profile%20views&color=0e75b6&style=flat" alt="william-hu-codes" /> </p>
