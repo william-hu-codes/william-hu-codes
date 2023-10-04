@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hu-codes&label=Profile%20views&color=0e75b6&style=flat" alt="william-hu-codes" /> </p>
 
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-beige?style=plastic&link=https://william-hu.com/)](https://william-hu.com/) -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-beige?style=flat-square&link=https://william-hu.com/)](https://william-hu.com/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-beige?style=flat-square&link=https://william-hu.com/)](https://william-hu.com/)
 [![LinkedIn](https://img.shields.io/badge/-William%20Hu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-wl-hu/)](https://www.linkedin.com/in/william-wl-hu/)
 [![Gmail Badge](https://img.shields.io/badge/-william.hu307@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:william.hu307@gmail.com)](mailto:william.hu307@gmail.com)
 
