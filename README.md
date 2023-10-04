@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/XyEF90m.png" height="200"/>
 </p>
 
-<h3> Hey there👋! I'm William Hu.</h2>
-<h2> Registered Nurse turned Full Stack Software Developer </h2>
+<h2> Hey there👋! I'm William Hu.</h2>
+<h3> Registered Nurse turned Full Stack Software Developer </h3>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
@@ -15,8 +15,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hu-codes&label=Profile%20views&color=0e75b6&style=flat" alt="william-hu-codes" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-William%20Hu-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-wl-hu/)](https://www.linkedin.com/in/william-wl-hu/)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-beige?style=plastic&link=https://william-hu.com/)](https://william-hu.com/) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-beige?style=flat-square&link=https://william-hu.com/)](https://william-hu.com/)
+[![LinkedIn](https://img.shields.io/badge/-William%20Hu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-wl-hu/)](https://www.linkedin.com/in/william-wl-hu/)
 [![Gmail Badge](https://img.shields.io/badge/-william.hu307@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:william.hu307@gmail.com)](mailto:william.hu307@gmail.com)
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@williuhm-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/williuhm)](https://twitter.com/williuhm) -->
 
 
