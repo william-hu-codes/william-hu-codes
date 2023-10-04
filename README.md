@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/XyEF90m.png" height="200"/>
 </p>
 
-<h2> Hey there👋! I'm William Hu.</h2>
+<h2> Hey there👋! I'm William Hu 🐳</h2>
 <h3> Registered Nurse turned Full Stack Software Developer </h3>
 
 ## 👨🏻‍💻 &nbsp;About Me 
