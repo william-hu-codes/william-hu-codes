@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🧑🏻‍⚕️💻 &nbsp; Leveraging my diverse background to forge a path towards a healthier and more accessible future for all.
-- 🎓 &nbsp; Studied software engineering immersive at General Assembly.
+- 🎓 &nbsp; Studied Software Engineering Immersive at General Assembly.
 - 📚 &nbsp; Currently learning TypeScript
 - 💼 &nbsp; Open to work! 
 
