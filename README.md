@@ -9,7 +9,7 @@
 
 - 🧑🏻‍⚕️💻 &nbsp; Leveraging my diverse background to forge a path towards a healthier and more accessible future for all.
 - 🎓 &nbsp; Studied Software Engineering Immersive at General Assembly.
-- 📚 &nbsp; Currently learning TypeScript
+- 📚 &nbsp; Currently learning C# and .NET
 - 💼 &nbsp; Open to work! 
 
 <br>
