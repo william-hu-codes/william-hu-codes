@@ -25,7 +25,7 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@williuhm-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/williuhm)](https://twitter.com/williuhm) -->
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stacks
 
 - 💻 &nbsp;
   <!-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
