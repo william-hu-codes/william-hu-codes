@@ -50,7 +50,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Datastore](https://img.shields.io/badge/-Datastore-333333?style=flat&logo=googlecloud)
+  ![Datastore](https://img.shields.io/badge/-Google-Datastore-333333?style=flat&logo=googlecloud)
   ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
   <!-- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) -->
 - ⚙️ &nbsp;
