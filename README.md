@@ -11,7 +11,7 @@
 - 🌎 &nbsp; I am based in Toronto, ON and Montreal, QC
 - 🎓 &nbsp; Studied Software Engineering Immersive at General Assembly.
 - 📚 &nbsp; Currently learning C# and .NET
-- 💼 &nbsp; Open to work! 
+- 💼 &nbsp; Thrive Health
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william-hu-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="william-hu-codes" /> </p>
