@@ -9,8 +9,7 @@
 
 - 🧑🏻‍⚕️💻 &nbsp; Leveraging my diverse background to forge a path towards a healthier and more accessible future for all.
 - 🌎 &nbsp; I am based in Toronto, ON and Montreal, QC
-- 🎓 &nbsp; Studied Software Engineering Immersive at General Assembly.
-- 📚 &nbsp; Currently learning C# and .NET
+- 🎓 &nbsp; Studied Software Engineering Immersive at General Assembly and Nursing at Western University
 - 💼 &nbsp; Thrive Health
 
 <br>
