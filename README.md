@@ -18,7 +18,7 @@
 <!-- styles = ["for-the-badge", "flat-square", "plastic"]
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-beige?style=plastic&link=https://william-hu.com/)](https://william-hu.com/) -->
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-beige?style=for-the-badge&link=https://william-hu.com/)](https://william-hu.com/)
-[![LinkedIn](https://img.shields.io/badge/-William%20Hu-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-wl-hu/)](https://www.linkedin.com/in/william-wl-hu/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-wl-hu/)](https://www.linkedin.com/in/william-wl-hu/)
 [![Gmail Badge](https://img.shields.io/badge/-william.hu307@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:william.hu307@gmail.com)](mailto:william.hu307@gmail.com)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@williuhm-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/williuhm)](https://twitter.com/williuhm) -->
