@@ -63,14 +63,16 @@
   <!-- ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity) -->
   
 
-<br/>
-
-<!-- ## 📈 Stats -->
+## 📈 Stats
 
 <!-- ![William's github stats](https://github-readme-stats.vercel.app/api?username=william-hu-codes&hide=["issues"]&show_icons=true&line_height=30) -->
 <!-- ![William's github stats](https://github-readme-stats.vercel.app/api?username=william-hu-codes&show_icons=true&theme=transparent) -->
 
 <!-- ![GitHubCard](https://githubcard.com/william-hu-codes.svg) -->
+
+![William's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=william-hu-codes)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=william-hu-codes&layout=compact)
 
 <!-- ![William's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=william-hu-codes&theme=buefy&layout=compact&langs_count=10) -->
 
